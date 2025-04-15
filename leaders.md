@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Nitin Raghavendra Gajjala](mailto:23951a680@iare.ac.in)
+* [P L Srinivasa Murthy](mailto:dean-iiic@iare.ac.in)
