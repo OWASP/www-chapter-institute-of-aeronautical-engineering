@@ -9,26 +9,15 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
-
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
-
 ## Welcome
-Include some information here about your chapter
+Welcome to the OWASP Institute of Aeronautical Engineering Student Chapter Home Page.
+The OWASP IARE Student Chapter is a community of cybersecurity enthusiasts committed to promoting secure software development and raising awareness about application security. As part of the global OWASP Foundation, our chapter aims to:
+
+- Empower students with hands-on knowledge of real-world security practices
+- Organize technical workshops, CTFs, guest lectures, and research discussions
+- Foster a collaborative learning environment centered on OWASP’s open-source projects and core values
+
+Whether you’re a beginner or have some experience, join us to learn, contribute, and grow with the global OWASP mission to make software security visible and accessible to everyone.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
