@@ -1,0 +1,23 @@
+leaders:
+  - name: Nitin Raghavendra Gajjala
+    email: nitin.gajjala@owasp.org
+    github: nitinraghavendra
+  - name: P L Srinivasa Murthy
+    email: srinivasa.murthy@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: India
+  city: Hyderabad
+  latitude: 17.360589
+  longitude: 78.4740613
+name: OWASP Institute of Aeronautical Engineering
+repositories:
+  - name: www-chapter-institute-of-aeronautical-engineering
+    url: https://github.com/OWASP/www-chapter-institute-of-aeronautical-engineering
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-institute-of-aeronautical-engineering
